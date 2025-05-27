@@ -54,7 +54,7 @@ Me chamo Enzo Linhares Brasil, tenho 18 anos e sou natural de Fortaleza. Realize
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZLBR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EZLBR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 
